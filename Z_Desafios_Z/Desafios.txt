@@ -1,5 +1,0 @@
-					Desafios
-					
-	# 	Os desafios deverão ser adicionados em arquivos de texto separados,
-	# ou seja, cada desafio estará em um arquivo diferente, para manter uma
-	# certa organização.
