@@ -29,6 +29,6 @@ Para facilitar a vida do pessoal, foi pensando o seguinte padrão simples para no
 
 Padrão definido até agora, se algo melhor for pensado este aquivo será modificao.
 
-# PAREBÉNS! Você agora é um mestre em ler arquivos README, e como eu disse não doeu...espero :) 
+### PAREBÉNS! Você agora é um mestre em ler arquivos README, e como eu disse não doeu...espero :) 
 
 
