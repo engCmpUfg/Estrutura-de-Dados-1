@@ -1,0 +1,43 @@
+					Lista de Alocação de Memória
+
+1. 	Escreva uma função chamada troca que realiza a troca
+	dos valores dos parâmetros recebidos. Sua assinatura
+	deve ser: void troca(float *a, float *b).
+
+2. 	Escreva uma função mm que receba um vetor inteiro
+	v[0..n-1] e os endereços de duas variáveis inteiras,
+	digamos min e max, e deposite nessas variáveis o valor
+	do elemento mínimo e o valor do elemento máximo do
+	vetor. Escreva também uma função main que use a
+	função mm.
+	
+3. 	Faça um programa para ordenar 3 números. Acesse
+	estes números e armazene-os em 3 ponteiros.
+	
+4. 	Crie uma função que receba uma string como
+	parâmetro (de tamanho desconhecido) e retorne uma
+	cópia da mesma. A assinatura da função deve ser:
+	char *strcopy(char *str);
+	
+5. 	Escreva uma função que recebe uma string de
+	caracteres e uma letra e devolve um vetor de inteiros
+	contendo as posições (índices no vetor da string) onde
+	a letra foi encontrada e um inteiro contendo o
+	tamanho do vetor criado (total de letras iguais
+	encontradas). Utilize o retorno de um vetor para
+	retornar os índices e um ponteiro para guardar o
+	tamanho do vetor.
+	
+6. 	Escreva uma função que codifica uma string em um
+	código secreto. A regra secreta de codificação é
+	extremamente simples: substitui cada letra pela letra
+	seguinte (Z é codificado como A). Por exemplo,
+	“Estruturas de Dados” se transformaria em “Ftusvuvsbt
+	ef Ebept”. Escreva uma função para codificar e uma
+	para decodificar cadeias segundo este código. Suas
+	funções devem escrever a string produzida em uma
+	string diferente da fornecida como entrada.
+	
+7. 	Escrever um programa que lê duas cadeias s1 e s2, e
+	retorna uma nova cadeia s3 que contém todos os
+	caracteres que aparecem em s1 e em s2.
