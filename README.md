@@ -14,10 +14,10 @@ Ler códigos ajuda na aprendizagem em programação, seja dando uma noção inicial d
 # Estrutura
 O repositório está dividido nas seguintes pastas :
 * Estrutura-de-Dados-1
-* Alocação Dinâmica
-* Lista
-* Pilha
-* $ Desafios
+* - Alocação Dinâmica
+* - Lista
+* - Pilha
+* - $ Desafios
 
 Cada pasta contém o conteudo com a qual foi entitulada, contudo, a pasta $ Desafios serve para galera que curte testar seus conhecimentos ou forçar mais um pouco.
 
